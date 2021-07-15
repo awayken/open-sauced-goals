@@ -1,7 +1,7 @@
 [
   {
     "full_name": "GoogleChromeLabs/proxx",
-    "stargazers_count": 1110,
+    "stargazers_count": 1112,
     "open_issues_count": 110,
     "forks_count": 104
   },
@@ -9,7 +9,7 @@
     "full_name": "GoogleChromeLabs/dark-mode-toggle",
     "stargazers_count": 664,
     "open_issues_count": 0,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "GoogleChromeLabs/tooling.report",
@@ -19,8 +19,8 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 63289,
-    "open_issues_count": 1290,
-    "forks_count": 6335
+    "stargazers_count": 63335,
+    "open_issues_count": 1298,
+    "forks_count": 6345
   }
 ]
